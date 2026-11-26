@@ -14,13 +14,14 @@
 
 | 仓库 | 说明 |
 |---|---|
-| [dsh-resident-theme](https://github.com/Neriah-Ado/dsh-resident-theme) | DeepSeek Harness 的 Red Queen 风格启动画面、界面主题与品牌标识 |
-| [StepFun-Code-GUI](https://github.com/Neriah-Ado/StepFun-Code-GUI) | Step Code 子代理编排可视化插件：液态玻璃面板、GUI 对话、API 配置切换与 Token 用量监控 |
-| [stepcode-plugins](https://github.com/Neriah-Ado/stepcode-plugins) | Step Code 第三方插件集合（step-commit 等），持续开发中 |
-| [stepfun-usage-monitor](https://github.com/Neriah-Ado/stepfun-usage-monitor) | StepFun API Token 用量本地监控代理：零依赖、低开销、数据全本地 |
-| [context-compaction-skill](https://github.com/Neriah-Ado/context-compaction-skill) | 通用上下文自动压缩技能，支持 ZCode / Claude Code / Codex / Step Code |
-| [step-code-context-compaction](https://github.com/Neriah-Ado/step-code-context-compaction) | Step Code 上下文自动压缩插件：`/compact` 与结构化快照 |
+| [stepfun-code-plugins](https://github.com/Neriah-Ado/stepfun-code-plugins) | Step Code 插件 monorepo：15 个插件，含提交、测试、上下文压缩、MATLAB 绘图、GUI、Token 监控与主题 |
+| [process-toolbox](https://github.com/Neriah-Ado/process-toolbox) | 私有半导体工艺工具箱：刻蚀选择比、DOE、工艺脚本与高校干法刻蚀知识库 |
+| [process-toolbox-web](https://github.com/Neriah-Ado/process-toolbox-web) | 工艺工具箱在线计算器：刻蚀选择比计算器与 DOE 实验设计器（GitHub Pages） |
+| [rhine-tts-lab](https://github.com/Neriah-Ado/rhine-tts-lab) | 面向 Windows / RTX 的自托管 Breeze TTS 2 声音实验室 |
+| [Clash-Neo](https://github.com/Neriah-Ado/Clash-Neo) | 液态玻璃风格 Clash / mihomo 桌面面板 |
 | [Web](https://github.com/Neriah-Ado/Web) | HTML / JavaScript 基础语法练习与浏览器行为验证页面 |
+
+已合并并归档的独立仓库：`dsh-resident-theme`、`stepfun-code-gui`、`stepfun-usage-monitor`、`context-compaction-skill`、`stepfun-code-context-compaction`、`step-matlab-plot`、`university-dry-etch-kb`。后续更新统一在 `stepfun-code-plugins` 与 `process-toolbox` 中进行。
 
 ### Fork
 
