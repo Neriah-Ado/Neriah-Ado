@@ -16,12 +16,14 @@
 |---|---|
 | [stepfun-code-plugins](https://github.com/Neriah-Ado/stepfun-code-plugins) | Step Code 插件 monorepo：15 个插件，含提交、测试、上下文压缩、MATLAB 绘图、GUI、Token 监控与主题 |
 | [process-toolbox](https://github.com/Neriah-Ado/process-toolbox) | 私有半导体工艺工具箱：刻蚀选择比、DOE、工艺脚本与高校干法刻蚀知识库 |
-| [process-toolbox-web](https://github.com/Neriah-Ado/process-toolbox-web) | 工艺工具箱在线计算器：刻蚀选择比计算器与 DOE 实验设计器（GitHub Pages） |
+| [process-toolbox-web](https://github.com/Neriah-Ado/process-toolbox-web) | 工艺工具箱在线计算器：刻蚀选择比计算器与 DOE 实验设计器（自动生成的 GitHub Pages 发布镜像） |
+| [finforecast](https://github.com/Neriah-Ado/finforecast) | 私有重资产制造业财务估算模型：三表联动、DCF、风险、情景与回测 |
+| [private-knowledge-base](https://github.com/Neriah-Ado/private-knowledge-base) | 私有本地优先知识库：Electron 客户端、微信/QQ OAuth、多用户隔离与 GitHub 同步 |
+| [agent-skills-optimizations](https://github.com/Neriah-Ado/agent-skills-optimizations) | 私有 Agent 技能工程记录：914 个网安技能的安装、扫描、性能优化与分类路由 |
 | [rhine-tts-lab](https://github.com/Neriah-Ado/rhine-tts-lab) | 面向 Windows / RTX 的自托管 Breeze TTS 2 声音实验室 |
 | [Clash-Neo](https://github.com/Neriah-Ado/Clash-Neo) | 液态玻璃风格 Clash / mihomo 桌面面板 |
-| [Web](https://github.com/Neriah-Ado/Web) | HTML / JavaScript 基础语法练习与浏览器行为验证页面 |
 
-已合并并归档的独立仓库：`dsh-resident-theme`、`stepfun-code-gui`、`stepfun-usage-monitor`、`context-compaction-skill`、`stepfun-code-context-compaction`、`step-matlab-plot`、`university-dry-etch-kb`。后续更新统一在 `stepfun-code-plugins` 与 `process-toolbox` 中进行。
+已合并并归档的独立仓库：`dsh-resident-theme`、`stepfun-code-gui`、`stepfun-usage-monitor`、`context-compaction-skill`、`stepfun-code-context-compaction`、`step-matlab-plot`、`university-dry-etch-kb`、`Web`。后续更新统一在 `stepfun-code-plugins`、`process-toolbox` 与本仓库中进行。
 
 ### Fork
 
